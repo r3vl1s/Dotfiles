@@ -1,0 +1,102 @@
+Xft.dpi:96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintfull
+Xft.lcdfilter: lcddefault
+
+URxvt.font: -misc-fixed-*-*-*-*-12-*-*-*-*-*-*-*
+*URxvt.boldFont: -misc-fixed-*-*-*-*-12-*-*-*-*-*-*-*
+urxvt.termName: rxvt-256color
+!urxvt.depth: 32
+urxvt.geometry: 80x28
+urxvt.scrollBar: false
+
+!URxvt.transparent: false
+! URxvt.shading: 0 to 99 darkens, 101 to 200 lightens
+! URxvt.shading: 100
+
+!*foreground: #EDEDED
+!*background: #100000
+
+!!black
+!*color0: #2E3436
+!*color8: #555753
+!!red
+!*color1: #993C3C
+!*color9: #BF4141
+!!green
+!*color2: #3C993C
+!*color10: #41BF41
+!!brown/yellow
+!*color3: #99993C
+!*color11: #BFBF41
+!!blue
+!*color4: #3C6199
+!*color12: #4174FB
+!!magenta
+!*color5: #993C99
+!*color13: #BF41BF
+!!cyan
+!*color6: #3C9999
+!*color14: #41BFBF
+!!white
+!*color7: #D3D7CF
+!*color15: #E3E3E3
+
+!!urxvt*color0:      #3f3f3f
+!urxvt*color0:      #101010
+!urxvt*color1:      #705050
+!! green + yellow
+!urxvt*color2:      #60b48a
+!urxvt*color3:      #f0dfaf
+!! blue + purple
+!urxvt*color4:      #506070
+!urxvt*color5:      #dc8cc3
+!! cyan + white
+!urxvt*color6:      #8cd0d3
+!urxvt*color7:      #dcdccc
+!! bright-black + bright-red
+!urxvt*color8:      #000000
+!urxvt*color9:      #dca3a3
+!! bright-green + bright-yellow
+!urxvt*color10:     #c3bf9f
+!urxvt*color11:     #f0dfaf
+!! bright-blue + bright-purple
+!urxvt*color12:     #94bff3
+!urxvt*color13:     #ec93d3
+!! bright-cyan + bright-white
+!urxvt*color14:     #93e0e3
+!urxvt*color15:     #ffffff
+
+! Zenburn color-scheme
+ urxvt*background:  #3f3f3f
+ urxvt*foreground:  #dcdccc
+ ! black + red
+ !urxvt*color0:     #3f3f3f
+ urxvt*color0:      #1E2320
+ urxvt*color1:      #705050
+ ! green + yellow
+ urxvt*color2:      #60b48a
+ urxvt*color3:      #dfaf8f
+ ! blue + purple
+ urxvt*color4:      #506070
+ urxvt*color5:      #dc8cc3
+ ! cyan + white
+ urxvt*color6:      #8cd0d3
+ urxvt*color7:      #dcdccc
+ ! bright-black + bright-red
+ urxvt*color8:      #709080
+ urxvt*color9:      #dca3a3
+ ! bright-green + bright-yellow
+ urxvt*color10:     #c3bf9f
+ urxvt*color11:     #f0dfaf
+ ! bright-blue + bright-purple
+ urxvt*color12:     #94bff3
+ urxvt*color13:     #ec93d3
+ ! bright-cyan + bright-white
+ urxvt*color14:     #93e0e3
+ urxvt*color15:     #ffffff
+!
+
